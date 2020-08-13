@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "4849663-krillin_fires_a_kamehameha_at_goku.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
